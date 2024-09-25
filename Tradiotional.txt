@@ -1,0 +1,6 @@
+
+
+
+Divide and Conqueor
+1. Merge Sort
+2. Qucik Sort
