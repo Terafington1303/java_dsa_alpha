@@ -5,9 +5,17 @@ Arrays
 4. Stocks
 5. Second Largest in Arrays
 
+Sorting
+1. Bubble Sort 
+2. Insertion Sort
+3. Selection Sort
+4. Counting Sort
 
-
-
+2D Arrays
+1. Spiral Matrix Print
+2. Diagonal Sum
+3. Search in Sorted Matrix
+4. Transpose of Matrix
 
 Divide and Conqueor
 1. Merge Sort
