@@ -1,6 +1,14 @@
+Arrays
+1. Subarray Sum Prefix Method
+2. Kadanes Algorithm
+3. Trapping Water
+4. Stocks
+5. Second Largest in Arrays
+
+
 
 
 
 Divide and Conqueor
 1. Merge Sort
-2. Qucik Sort
+2. Quick Sort
