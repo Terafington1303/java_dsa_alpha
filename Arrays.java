@@ -189,6 +189,7 @@ public class Arrays{
         // List of elements of same type stored in contigous memory location
         // Array Creation two ways
         // int arr[] = new int[5];
+        // Arrays.sort(arr);
         int arr2[] = {7  ,1 , 5 , 3 , 6 , 4};
         // int arr3[] = {4 , 2 , 0 , 6 , 3 , 2 , 5};
 

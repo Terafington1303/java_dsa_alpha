@@ -17,6 +17,12 @@ Sorting
 3. Search in Sorted Matrix
 4. Transpose of Matrix
 
+Strings
+1. Palindrome
+2. To Uppercase
+3. String Compression
+4. Anagrams
+
 Divide and Conqueor
 1. Merge Sort
 2. Quick Sort
