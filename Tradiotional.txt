@@ -23,6 +23,13 @@ Strings
 3. String Compression
 4. Anagrams
 
+Bit Manipulation
+1. get , set , clear , range
+2. Is power of 2
+3. Count set bits
+4. Fast Expo
+5. Swap without using 3rd variable
+
 Divide and Conqueor
 1. Merge Sort
 2. Quick Sort
